@@ -1,0 +1,21 @@
+{
+	"name":"mw-datepicker-range",
+	"version":"1.0.0",
+	"description":"Date range picker for Angularjs with UI-Bootstrap",
+	"main":"index.js",
+	"dependencies":{
+		"bootstrap":"^3.3.7",
+		"angular":"^1.6.4",
+		"angular-bootstrap":"^2.5.0"
+	},
+	"license":"MIT",
+	"homepage":"",
+	"ignore":[
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"public",
+		"tests"
+	]
+}
