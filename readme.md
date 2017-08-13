@@ -64,6 +64,6 @@ $scope.mwMultiSelectService.parse($scope.selectedDates, format);
 
 ## Tasklist 
 - [ ] add documentation
-- [ ] nodejs, bower support
+- [X] nodejs, bower support
 - [ ] fix spelling, grammar mistakes
 - [ ] add second selection type
