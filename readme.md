@@ -61,9 +61,20 @@ $scope.mwMultiSelectService.parse($scope.selectedDates, format);
 
 <a href='https://plnkr.co/edit/cQ2Dr48Ya8mKcgHnrg5W?p=preview' target='_blank'>View demo on Plunker</a>
 
+##SmartTable support
+mw-datepicker-range now supports <a href='https://github.com/lorenzofox3/Smart-Table' target='_blank'>SmartTable</a>
+
+To use it you need to add this:
+```html
+<th>
+    <st-date-range predicate="birthDate" selected-dates></st-date-range>
+</th>
+```
+'st-date-range' will create the necessary datepicker elements. 
+If you want to override the template you need to override 'stDateRange.html' with your own template.
 
 ## Tasklist 
 - [ ] add documentation
-- [X] nodejs, bower support
 - [ ] fix spelling, grammar mistakes
 - [ ] add second selection type
+- [ ] SmartTable template config
