@@ -1,21 +1,21 @@
 {
-	"name":"mw-datepicker-range",
-	"version":"1.0.0",
-	"description":"Date range picker for Angularjs with UI-Bootstrap",
-	"main":"./dist/mw-datepicker-range.js",
-	"scripts":{
-		"start":"node index.js"
-	},
-	"author":"MrWook",
-	"license":"MIT",
-	"keywords":[
-		"mw-datepicker-range",
-		"mw",
-		"angular",
-		"ui-bootstrap",
-		"bootstrap",
-		"datepicker",
-		"daterangepicker",
-		"range"
-	]
+  "name": "mw-datepicker-range",
+  "version": "1.0.1",
+  "description": "Date range picker for Angularjs with UI-Bootstrap",
+  "main": "./dist/mw-datepicker-range.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MrWook",
+  "license": "MIT",
+  "keywords": [
+    "mw-datepicker-range",
+    "mw",
+    "angular",
+    "ui-bootstrap",
+    "bootstrap",
+    "datepicker",
+    "daterangepicker",
+    "range"
+  ]
 }
