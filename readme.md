@@ -67,7 +67,7 @@ $scope.mwMultiSelectService.parse($scope.selectedDates, format);
 
 <a href='https://plnkr.co/edit/cQ2Dr48Ya8mKcgHnrg5W?p=preview' target='_blank'>View demo on Plunker</a>
 
-##SmartTable support
+## SmartTable support
 mw-datepicker-range now supports <a href='https://github.com/lorenzofox3/Smart-Table' target='_blank'>SmartTable</a>
 
 To use it you need to add this:
