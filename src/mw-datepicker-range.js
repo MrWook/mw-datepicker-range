@@ -1,0 +1,1 @@
+angular.module('mw-datepicker-range', ['ui.bootstrap.datepicker', 'ui.bootstrap.datepickerPopup', 'mw-datepicker-range-template']);

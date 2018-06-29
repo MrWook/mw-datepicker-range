@@ -1,17 +1,34 @@
 {
   "name": "mw-datepicker-range",
   "version": "1.1.0",
-  "description": "Date range picker for Angularjs with UI-Bootstrap",
-  "main": "./dist/mw-datepicker-range.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "description": "Date range picker for AngularJS with UI-Bootstrap",
   "author": "MrWook",
   "license": "MIT",
+  "homepage": "https://github.com/MrWook/mw-datepicker-range",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.4"
+  },
+  "devDependencies": {
+    "bower": ">=1.8.2",
+    "babel-preset-env": ">=1.6.1",
+    "babel-core": ">=6.26.0",
+    "grunt": ">=1.0.1",
+    "grunt-babel": ">=7.0.0",
+    "grunt-contrib-clean": ">=1.1.0",
+    "grunt-contrib-concat": ">=1.0.1",
+    "grunt-contrib-cssmin": ">=2.2.1",
+    "grunt-minify-html": ">=3.0.0",
+    "grunt-contrib-uglify": ">=3.3.0",
+    "grunt-html2js": ">=0.5.1",
+    "grunt-sass": ">=2.0.0",
+    "load-grunt-tasks": ">=3.5.2",
+    "time-grunt": ">=1.4.0"
+  },
   "keywords": [
     "mw-datepicker-range",
     "mw",
-    "angular",
+    "angularjs",
     "ui-bootstrap",
     "bootstrap",
     "datepicker",

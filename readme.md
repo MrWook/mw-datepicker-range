@@ -1,3 +1,9 @@
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/MrWook/mw-datepicker-range/blob/master/LICENSE.txt)
+[![codebeat badge](https://codebeat.co/badges/82e27a82-74d8-4442-a8df-e7fba1808f2d)](https://codebeat.co/projects/github-com-mrwook-mw-datepicker-range-master)
+[![dependencies Status](https://david-dm.org/MrWook/mw-datepicker-range/status.svg)](https://david-dm.org/MrWook/mw-datepicker-range)
+[![npm version](https://badge.fury.io/js/mw-datepicker-range.svg)](https://badge.fury.io/js/mw-datepicker-range)
+
+
 # mw-datepicker-range
 
 mw-datepicker-range is a AngularJS module that extend the ui-bootstrap's datepicker directive to allow a selection of a range.
