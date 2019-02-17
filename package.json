@@ -6,7 +6,7 @@
   "license": "MIT",
   "homepage": "https://github.com/MrWook/mw-datepicker-range",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "angular": "^1.6.4"
   },
   "devDependencies": {
