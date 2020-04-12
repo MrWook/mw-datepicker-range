@@ -4,6 +4,7 @@
 [![npm version](https://badge.fury.io/js/mw-datepicker-range.svg)](https://badge.fury.io/js/mw-datepicker-range)
 
 
+# This repository is no longer maintained.
 # mw-datepicker-range
 
 mw-datepicker-range is a AngularJS module that extend the ui-bootstrap's datepicker directive to allow a selection of a range.
